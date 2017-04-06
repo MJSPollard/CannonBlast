@@ -1,0 +1,31 @@
+<?xml version="1.0"    encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Cannon Blast</string>
+    <string name="title">CANNON BLAST</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="level4">Level 4</string>
+    <string name="level5">Level 5</string>
+
+    <string name="result">Total Time: %1$d\nShots Fired: %2$d\nYour Score: %3$d\n</string>
+    <string name="Time">Time left: %1$d seconds</string>
+    <string name="topscore">Score: %1$d</string>
+
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="helpmessage">You are an intergalactic imperialist that has been sent on a mission
+    to destroy all enemy targets before the time runs out. Choose a level and fire your laser cannon
+    by tapping the screen in the direction you want to fire. Do not hit the blocker in front of the targets
+    as this decreases time and score.</string>
+    <string name="aboutmessage">Candidate No. 670001774</string>
+
+    <string name="menu">Menu</string>
+    <string name="restart">restart</string>
+    <string name="highscores">HighScores</string>
+
+    <string name="won">You Won!</string>
+    <string name="lost">You lost.</string>
+
+</resources>
